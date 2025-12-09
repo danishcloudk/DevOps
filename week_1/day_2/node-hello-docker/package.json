@@ -1,0 +1,12 @@
+{
+  "name": "node-hello-docker",
+  "version": "1.0.0",
+  "description": "A simple hello world Express app for Docker.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
