@@ -1,7 +1,0 @@
-- name: Configure local system
-  hosts: local
-  become: yes
-
-  roles:
-    - web
-
