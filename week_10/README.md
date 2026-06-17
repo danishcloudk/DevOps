@@ -79,18 +79,7 @@ week_10/
 
 ---
 
-## ⚠️ Issues Faced & Resolution
-
-### ❌ GitHub Workflow File Error
-`Error writing .github/workflows/ci-cd.yml: No such file or directory`
-
-**✅ Fix:**  
-Created workflow directory manually:
-
-```bash
-mkdir -p .github/workflows
-```
-
+## ⚠️ Issue Faced & Resolution
 ---
 
 ### ❌ Kubernetes Deployment Error
